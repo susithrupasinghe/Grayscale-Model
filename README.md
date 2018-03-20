@@ -1,0 +1,2 @@
+# Grayscale-Model
+Gray scale filtering is in reference to the color mode of a particular image.A gray scale image would, in layman's terms, be a black and white image, any other color would not be included in it.  Basically, it's a black and white image, the colors in that image, if any will be converted to corresponding shade of gray (mid tones between black and white) thus, making each bit of the image still differentiable.
